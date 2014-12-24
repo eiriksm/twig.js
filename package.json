@@ -20,7 +20,7 @@
     "twigjs": "./bin/twigjs"
   },
   "scripts": {
-    "test": "make test"
+    "test": "make && make test"
   },
   "dependencies": {
     "walk": "2.3.x",
